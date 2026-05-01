@@ -1,7 +1,7 @@
 This script processes referral data, cleans it, and flags potentially fraudulent rewards.
 
 Files:
--main.py - main script 
+-main.py - main python script 
 -profiling.py - data profiling script
 -Dockerfile - docker setup
 -requirements.txt - dependencies
